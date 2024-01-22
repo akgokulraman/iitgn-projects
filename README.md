@@ -1,0 +1,1 @@
+Includes the course projects which I took in semester 4 (under Prof. Kabeer Jasuja) and semester 6 (under Prof. Nitin Padhiyar). Reactive Distillation (RDC) is the only code-based project dealing with simulations to understand the material flow in the RDC system.
